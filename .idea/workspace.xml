@@ -5,15 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20d83e2d-e726-40b0-b0e3-6c76e39594a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Spealcheaker/Spellchecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Spealcheaker/Springtest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Spealcheaker/TextEditor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spellcheaker.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Com/Collage/Applicationtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Com/Collage/Collage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Com/Collage/Colleageconfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Com/Collage/Princple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Com/Employee/AllEmpdeatail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Com/Employee/Empconfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Com/Employee/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Com/Employee/Engineer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Com/Employee/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Com/Employee/SpringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConfrigation/Configdemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConfrigation/Helloworld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConfrigation/Springmain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Setterbasedcontainer/JavaCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Setterbasedcontainer/Springmain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Spring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Spring/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Spring/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Spring/Springconfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Spring/Springdemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Collection.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/EmployeeandEngi.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Com/Springproject/Empconfig2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Com/Springproject/Empconfig2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/VechileNoise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/VechileNoise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Com/Springproject/Empconfig2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Com/Springproject/Empconfig2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spring/VechileNoise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spring/VechileNoise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Com/Springproject/Empconfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Com/Springproject/Empconfig2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Com/Springproject/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Com/Springproject/Springproject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Springproject3/ClassA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Springproject3/demoSpring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Springproject3/projectconfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Spealcheaker/Spellchecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Spealcheaker/Springtest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Spealcheaker/TextEditor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/spring/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/spring/Bike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/spring/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/spring/ImportBeanConfriguation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/spring/Vechicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/spring/VechileNoise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/spring/config/Appconfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +84,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Springtest">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.spring.App" />
+  <component name="RunManager" selected="Application.Springdemo">
+    <configuration name="Applicationtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Com.Collage.Applicationtest" />
       <module name="springboot" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.spring.*" />
+          <option name="PATTERN" value="Com.Collage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+    <configuration name="JavaConfrigation.Springmain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaConfrigation.Springmain" />
       <module name="springboot" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="JavaConfrigation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Springproject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Com.Springproject.Springproject" />
+    <configuration name="SpringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Com.Employee.SpringDemo" />
       <module name="springboot" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Com.Springproject.*" />
+          <option name="PATTERN" value="Com.Employee.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +124,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Springtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Spealcheaker.Springtest" />
+    <configuration name="Springdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Spring.Springdemo" />
       <module name="springboot" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Spealcheaker.*" />
+          <option name="PATTERN" value="Spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springmain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Setterbasedcontainer.Springmain" />
+      <module name="springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Setterbasedcontainer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,10 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Springtest" />
-        <item itemvalue="Application.Springproject" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Springdemo" />
+        <item itemvalue="Application.JavaConfrigation.Springmain" />
+        <item itemvalue="Application.Springmain" />
+        <item itemvalue="Application.Applicationtest" />
+        <item itemvalue="Application.SpringDemo" />
       </list>
     </recent_temporary>
   </component>
